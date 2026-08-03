@@ -24,9 +24,6 @@
     
 # events()
 
-
-
-
 def reverse_events():
     num1=int(input("Enter smaller number: "))
     num2=int(input("Enter bigger number: "))
